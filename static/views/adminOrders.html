@@ -2,7 +2,7 @@
 
     <table class="table table-striped table-bordered">
         <tr><th>Name</th><th>City</th><th>Value</th><th></th></tr>
-        <tr ng-repeat="order in data.orders">
+        <tr ng-repeat="order in orders">
             <td>{{order.name}}</td>
             <td>{{order.city}}</td>
             <td>{{calcTotal(order) | currency}}</td>
