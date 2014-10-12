@@ -8,5 +8,5 @@ app.run(debug=True)
 
 # Use this to run in production environment
 # Also use it to debug under PyCharm's debugger
-# In this debug mode auto-reloading is disabled but breakpoints are enabled
+# In this mode auto-reloading is disabled but breakpoints are enabled
 #app.run()
