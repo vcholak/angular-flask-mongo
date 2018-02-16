@@ -1,0 +1,4 @@
+# Python 3.4.0
+Flask>=0.10.1
+Flask-Login>=0.2.11
+PyMongo>=2.7.2
